@@ -18,7 +18,7 @@ h2{
     margin-bottom: 30px;
     font-size: 18px;
 }
-.about-me span {
+.title {
     padding-bottom: 5px;
     border-bottom: solid 2px red;
 
@@ -81,4 +81,76 @@ button{
 .inf{
     max-width: 800px;
     margin:32px auto ;
+}
+.but{
+    font-size: 15px;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    padding: 10px 15px;
+      
+
+}
+
+.chil{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+
+}
+.n{ width: 550px;
+}
+.z{
+    width: 500px;
+}
+.ct{
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 10px;
+    margin-bottom: 50px;
+    
+}
+.y{
+    font-size: 15px;
+    font-weight: bolder;
+    
+   
+}
+.t{
+    font-size: 20px;
+    margin-top:  10px; 
+    margin-bottom: 10px;
+    
+}
+.x{
+    font-size: 16px;
+    font-weight: bolder;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    
+    
+
+}
+.s{
+    color:grey ;
+
+}
+.in{
+    
+    width: 550px;
+}
+.inx{
+    width: 500px;
+    transform: translateY(54px);
+}
+.content{
+    display: flex;
+    gap: 10px;
+    
+}
+.main{
+    width: 1200px;
+    margin-top: 60px;
+}
+.l{
+    margin-top: 10px;
 }
